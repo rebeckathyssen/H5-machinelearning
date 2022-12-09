@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "car-snapper-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
